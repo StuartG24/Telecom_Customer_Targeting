@@ -1,0 +1,7 @@
+{
+    "dataWrangler.outputRenderer.enabled": false,
+    "dataWrangler.outputRenderer.enabledTypes": {
+        "pandas.core.frame.DataFrame": false
+    },
+    "dataWrangler.outputRenderer.columnInsights.displayByDefault": true
+}
